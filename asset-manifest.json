@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/silcal//proto/static/css/main.78017413.css",
-    "main.js": "/silcal//proto/static/js/main.2c708cf4.js",
-    "static/js/453.d7814da0.chunk.js": "/silcal//proto/static/js/453.d7814da0.chunk.js",
-    "index.html": "/silcal//proto/index.html",
-    "main.78017413.css.map": "/silcal//proto/static/css/main.78017413.css.map",
-    "main.2c708cf4.js.map": "/silcal//proto/static/js/main.2c708cf4.js.map",
-    "453.d7814da0.chunk.js.map": "/silcal//proto/static/js/453.d7814da0.chunk.js.map"
+    "main.css": "/silcal/proto/static/css/main.78017413.css",
+    "main.js": "/silcal/proto/static/js/main.ca63339d.js",
+    "static/js/453.d7814da0.chunk.js": "/silcal/proto/static/js/453.d7814da0.chunk.js",
+    "index.html": "/silcal/proto/index.html",
+    "main.78017413.css.map": "/silcal/proto/static/css/main.78017413.css.map",
+    "main.ca63339d.js.map": "/silcal/proto/static/js/main.ca63339d.js.map",
+    "453.d7814da0.chunk.js.map": "/silcal/proto/static/js/453.d7814da0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78017413.css",
-    "static/js/main.2c708cf4.js"
+    "static/js/main.ca63339d.js"
   ]
 }
